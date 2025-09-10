@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Scarlett García de la O
+# 👋 ¡Hola! Soy Scarlett García de la O.
 
 [![GitHub followers](https://img.shields.io/github/followers/scarlettDelaO?label=Seguidores&style=social)](https://github.com/scarlettDelaO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sígueme-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/scarlett-de-la-o-872965300)
